@@ -1,8 +1,6 @@
 # Kodluyoruz PHP Temel
 ## Kodluyoruz Php Form İşlemleri
 
-![patika: zuhurialtun](https://prnt.sc/wRsZcPnSmOq4)
-
 Ödev
 - Kullanıcıdan sayı değeri alabileceğiniz bir form hazırlayın.
 - Gelen sayı değerlerinin 3 ile bölümünden kalanın 0 olup olmadığını kontrol eden bir fonksiyon yazın.
